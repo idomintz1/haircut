@@ -22,3 +22,6 @@ Generate and inject 50 diverse haircut records into the Firestore database to pr
 2. Confirm that 50 new cards appear in the grid.
 3. Verify that the heatmap colors update to reflect the new global data.
 4. Check that statistics (Total Cuts, Avg Price) reflect the seeded data.
+
+
+fgvfgf
