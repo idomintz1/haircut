@@ -1,0 +1,7 @@
+- [/] Implement World Map Heatmap <!-- id: 20 -->
+    - [ ] Add map container and dependencies to index.html <!-- id: 21 -->
+    - [ ] Implement map initialization and styling <!-- id: 22 -->
+    - [ ] Implement data aggregation and heatmap logic <!-- id: 23 -->
+    - [ ] Verify map functionality in browser <!-- id: 24 -->
+- [ ] Create walkthrough documentation <!-- id: 17 -->
+- [ ] Verify features in browser <!-- id: 12 -->
